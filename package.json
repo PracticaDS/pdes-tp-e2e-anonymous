@@ -1,0 +1,8 @@
+{
+  "name": "pdes-tp-e2e-anonymous",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:PracticaDS/pdes-tp-e2e-anonymous.git",
+  "author": "Leandro Di Lorenzo <leandro.jdl@gmail.com>",
+  "license": "MIT"
+}
